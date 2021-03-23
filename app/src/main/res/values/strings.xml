@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestApp1</string>
+    <string name="name_text">Welcome to android</string>
+    <string name="btn_txt">show my app name</string>
+</resources>
